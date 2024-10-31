@@ -26,6 +26,8 @@ I used the following technologies: `html`, `css`, `JavaScript`, `DOM-scripting`,
 
 ## Setup
 - download all the files and open index.html in your browser
+  or
+- open (https://movieinfo1234.netlify.app/) this link.
 
 ## Status
 Movie info is finished for the moment.
