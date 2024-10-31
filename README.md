@@ -1,5 +1,4 @@
-# Project Title 
-Movie info
+# Movie info
 -Daniel Väkiparta
 
 ## Demo link:
