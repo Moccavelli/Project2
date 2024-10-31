@@ -3,7 +3,7 @@ Movie info
 -Daniel Väkiparta
 
 ## Demo link:
-Access my site at [google.com](https://google.com)
+Access my site at [netlify](https://movieinfo1234.netlify.app/)
 
 ## How was the workload divided
 Self-made project.
